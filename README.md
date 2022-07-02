@@ -14,9 +14,9 @@ pass2完成後須輸出 source program(前後需分別加入location.object code
 
 input file:
 
-source statement請使用附檔的source.txt
+source statement請使用附檔的[source.txt](https://github.com/chang001124/Assembly/blob/master/source.txt) 
 
-op code 請使用附檔的opcode.txt
+op code 請使用附檔的[opcode.txt](https://github.com/chang001124/Assembly/blob/master/opcode.txt)
 
 加分項目:machine dependent(Support all addressing modes and all instruction formats)、program relocation
 
@@ -44,8 +44,8 @@ pdf檔需說明流程、重點程式碼，並將4個輸出檔整理跟附檔輸�
 
 1.[opcode.txt](https://github.com/chang001124/Assembly/blob/master/opcode.txt) (494 bytes)
 
-2.SICXEsource.txt (612 bytes)
+2.[SICXEsource.txt](https://github.com/chang001124/Assembly/blob/master/SICXEsource.txt) (612 bytes)
 
-3.輸出範例.pdf (379.8 KB)
+3.[輸出範例.pdf](https://github.com/chang001124/Assembly/blob/master/%E8%BC%B8%E5%87%BA%E7%AF%84%E4%BE%8B.pdf) (379.8 KB)
 
-4.source.txt (617 bytes)
+4.[source.txt](https://github.com/chang001124/Assembly/blob/master/source.txt) (617 bytes)
