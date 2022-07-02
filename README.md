@@ -42,7 +42,7 @@ pdf檔需說明流程、重點程式碼，並將4個輸出檔整理跟附檔輸�
 
 附件
 
-1.opcode.txt (494 bytes)
+1.[opcode.txt](https://github.com/chang001124/Assembly/blob/master/opcode.txt) (494 bytes)
 
 2.SICXEsource.txt (612 bytes)
 
